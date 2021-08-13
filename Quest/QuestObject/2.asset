@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cbbeddf9a21048448a831a030ebd85a1, type: 3}
+  m_Name: 2
+  m_EditorClassIdentifier: 
+  _questType: 0
+  _questLoc: 1
+  _questItem: {fileID: 0}
+  _monster: {fileID: 11400000, guid: 5a7c102a658df9d499637b801c6dc5e6, type: 2}
+  _qusetPlace: Skeleton
+  _rewardItem:
+  - {fileID: 11400000, guid: 3e59e6584f998aa49b5ae5e594eaf82c, type: 2}
+  - {fileID: 11400000, guid: 242e28abf11d2a944a9f82ca1c349656, type: 2}
+  - {fileID: 11400000, guid: 09b7576f145c2684995cb44c7c40cd80, type: 2}
+  rewardXp: 100
+  rewardGold: 500
+  _goal: 2
+  _current: 5
+  _contents: "\uC2A4\uCF08\uB808\uD1A4\uC744 \uC7A1\uC544\uB77C!"
